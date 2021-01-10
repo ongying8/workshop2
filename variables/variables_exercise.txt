@@ -6,7 +6,7 @@ carname  = "Volvo"
 
 2.Create a variable named age and assign the value 22 to it.
   
-age = 21
+age = 22
 
 3.Display the sum of 5 + 10, using two variables: x and y.
    
