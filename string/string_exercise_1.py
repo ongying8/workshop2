@@ -4,9 +4,9 @@ print(len("Python is one of the fastest-growing programming languages"))
 string = "Python is one of the fastest-growing programming languages"
 print(string[0])
 # จงเขียนคำสั่งเพื่อแสดง "fastest" ของข้อความ "Python is one of the fastest-growing programming languages"
-eiei = len("Python is one of the ")
-kiki = len("Python is one of the fastest")
-print(string[eiei:kiki])
+startF = len("Python is one of the ")
+endF = len("Python is one of the fastest")
+print(string[startF:endF])
 # จงเขียนคำสั่งเพื่อแสดข้อความ "Python is one of the fastest-growing programming languages" ที่ไม่มี space
 print(string.replace(" ", ""))
 # จงเขียนคำสั่งเพื่อแสดข้อความ "Python is one of the fastest-growing programming languages" ให้เป็นตัวพิมใหญ่ทั้งหมด
