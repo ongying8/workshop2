@@ -1,5 +1,5 @@
-dict1 = {"name": "piyakorn", "age": "21"}
-dict2 = {"name": "piyakorn", "age": "21"}
+dict1 = {"name": "pattaraporn", "age": "21"}
+dict2 = {"name": "pattaraporn", "age": "21"}
 dict3 = dict1
 
 print(dict1 is dict3)  # True
